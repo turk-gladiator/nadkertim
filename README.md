@@ -1,2 +1,0 @@
-# nadkertim
-nadgames brute force
